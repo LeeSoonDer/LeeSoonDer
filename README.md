@@ -1,28 +1,60 @@
-<h1> Hi there，I am Lee Soon Der👋 </h1>
+<h1 align="center">Hi there, I’m Lee Soon Der! 👋</h1>
 
-<h3> I am from Kota Tinggi, Johor. I am currently studying in Universiti Teknologi Malaysia, as a 3rd year student of Bachelor of Computer Science (Data Engineering) :star_struck:</h3>
+<p align="center">
+  🎓 3rd-year Data Engineering student at Universiti Teknologi Malaysia (UTM) <br>
+  📍 From Kota Tinggi, Johor, Malaysia
+</p>
 
-<img src="https://media.tenor.com/mhLPO2VldCkAAAAM/0001.gif" height="200" width="200">
+---
 
-🌱 I’m currently learning software development, programming language and object oriented programming.:muscle:
+## 🚀 About Me
+- 🎯 Passionate about **Data Engineering and AI**
+- 💡 Always eager to learn new technologies and frameworks
+- 
+---
 
-:keyboard:Languages and Tools:
-<ul>
-  <li>c++</li>
-  <li>html</li>
-</ul>
-  
-📫 How to reach me: 
-<ul>
-<li>Email:leeder@graduate.utm.my </li>
-<li>Phone Number: 016-7659728 </li>
-<li><a href="https://www.linkedin.com/in/lee-soon-der-b86b20260/">LinkedIn</a></li>
-</ul>
+## 🛠️ Tech Stack & Tools
 
-😄 Pronouns: He/Him
+**Programming Languages**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 
-<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" height="200" width="200">
+**Frontend Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeeSoonDer&theme=radical)
+**Data & Tools**  
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
+---
 
+## 🎖️ Certifications  
+🔹 **Build Your Generative AI Productivity Skills** – *Microsoft & LinkedIn* (Issued Mar 2025)  
+🔹 **Career Essentials in Data Analysis** – *Microsoft & LinkedIn* (Issued Mar 2025)  
+🔹 **Elements of AI** – *MinnaLearn* (Issued Mar 2025)  
+🔹 **Microsoft Azure AI Essentials Professional Certificate** – *Microsoft & LinkedIn* (Issued Mar 2025)  
+
+---
+
+## 📬 Connect with Me  
+📧 **Email:** leeder@graduate.utm.my  
+📞 **Phone:** +60 16-7659728  
+💼 **LinkedIn:** [Lee Soon Der](https://www.linkedin.com/in/lee-soon-der-b86b20260/)  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeSoonDer&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeeSoonDer&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+💡 *"The best way to predict the future is to create it."* 🚀
